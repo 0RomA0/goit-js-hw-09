@@ -33,6 +33,7 @@ margin-bottom: 16px;
 fill: none;
 width: 360px;
 height: 80px;
+resize: none;
 }
 
 textarea:hover {
